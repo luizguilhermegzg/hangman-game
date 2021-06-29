@@ -1,3 +1,8 @@
+/*************************************************************************
+ *  Name: hangman.c                                                      *
+ *  Purpose: Play hangman in terminal.                                   *
+ *  Author: L. G. Costa                                                  *
+ *************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
